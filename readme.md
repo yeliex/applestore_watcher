@@ -1,4 +1,6 @@
 # applestore_watcher
+add the product serial ids and alert the purchas informations every 30 second with system notification
+<img width="342" alt="qq20161028-0 2x" src="https://cloud.githubusercontent.com/assets/8470242/19799242/2328cf78-9d28-11e6-857e-4f5ef8b138c3.png">
 
 ## uasge 
 - edit `target.json`
