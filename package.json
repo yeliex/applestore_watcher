@@ -12,7 +12,7 @@
   "author": "yeliex",
   "license": "UNLICENSED",
   "dependencies": {
-    "autofetch": "^1.0.2",
-    "node-notifier": "^4.6.1"
+    "autofetch": "^4.1.0",
+    "node-notifier": "^5.2.1"
   }
 }
